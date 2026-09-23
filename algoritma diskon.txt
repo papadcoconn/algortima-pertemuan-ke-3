@@ -1,0 +1,9 @@
+ALGORITMA
+
+1.mulai
+2.masukkan nilai Qty
+3.jika Qty > 5, maka diskon = 5%
+4.jika Qty > 3, maka diskon = 2%
+5.selain itu, diskon = 0%
+6.tampilkan hasil diskon
+7.selesai

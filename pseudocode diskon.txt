@@ -1,0 +1,15 @@
+START
+
+INPUT Qty
+
+IF Qty > 5 THEN
+    diskon ← 5%
+ELSE IF Qty > 3 THEN
+    diskon ← 2%
+ELSE
+    diskon ← 0%
+END IF
+
+OUTPUT diskon
+
+END

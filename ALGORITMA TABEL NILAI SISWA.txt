@@ -1,0 +1,11 @@
+ ALGORITMA
+
+1.mulai
+2.input nilai
+3.jika nilai ≥ 90, maka keterangan = A
+4.jika nilai ≥ 80, maka keterangan = B
+5.jika nilai ≥ 70, maka keterangan = C
+6.jika nilai ≥ 60, maka keterangan = D
+7.selain itu, keterangan = E
+8.tampilkan keterangan
+9.selesai

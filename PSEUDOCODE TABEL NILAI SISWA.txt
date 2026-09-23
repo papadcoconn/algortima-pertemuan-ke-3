@@ -1,0 +1,22 @@
+
+PSEUDOCODE
+
+START
+
+INPUT nilai
+
+IF nilai >= 90 THEN
+    keterangan ← "A"
+ELSE IF nilai >= 80 THEN
+    keterangan ← "B"
+ELSE IF nilai >= 70 THEN
+    keterangan ← "C"
+ELSE IF nilai >= 60 THEN
+    keterangan ← "D"
+ELSE
+    keterangan ← "E"
+END IF
+
+OUTPUT keterangan
+
+END
